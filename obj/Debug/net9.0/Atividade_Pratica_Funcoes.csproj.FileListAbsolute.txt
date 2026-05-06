@@ -1,0 +1,14 @@
+C:\Users\1663209\Documents\bernardp\06_05\Atividade_Pratica_Funcoes\bin\Debug\net9.0\Atividade_Pratica_Funcoes.exe
+C:\Users\1663209\Documents\bernardp\06_05\Atividade_Pratica_Funcoes\bin\Debug\net9.0\Atividade_Pratica_Funcoes.deps.json
+C:\Users\1663209\Documents\bernardp\06_05\Atividade_Pratica_Funcoes\bin\Debug\net9.0\Atividade_Pratica_Funcoes.runtimeconfig.json
+C:\Users\1663209\Documents\bernardp\06_05\Atividade_Pratica_Funcoes\bin\Debug\net9.0\Atividade_Pratica_Funcoes.dll
+C:\Users\1663209\Documents\bernardp\06_05\Atividade_Pratica_Funcoes\bin\Debug\net9.0\Atividade_Pratica_Funcoes.pdb
+C:\Users\1663209\Documents\bernardp\06_05\Atividade_Pratica_Funcoes\obj\Debug\net9.0\Atividade_Pratica_Funcoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1663209\Documents\bernardp\06_05\Atividade_Pratica_Funcoes\obj\Debug\net9.0\Atividade_Pratica_Funcoes.AssemblyInfoInputs.cache
+C:\Users\1663209\Documents\bernardp\06_05\Atividade_Pratica_Funcoes\obj\Debug\net9.0\Atividade_Pratica_Funcoes.AssemblyInfo.cs
+C:\Users\1663209\Documents\bernardp\06_05\Atividade_Pratica_Funcoes\obj\Debug\net9.0\Atividade_Pratica_Funcoes.csproj.CoreCompileInputs.cache
+C:\Users\1663209\Documents\bernardp\06_05\Atividade_Pratica_Funcoes\obj\Debug\net9.0\Atividade_Pratica_Funcoes.dll
+C:\Users\1663209\Documents\bernardp\06_05\Atividade_Pratica_Funcoes\obj\Debug\net9.0\refint\Atividade_Pratica_Funcoes.dll
+C:\Users\1663209\Documents\bernardp\06_05\Atividade_Pratica_Funcoes\obj\Debug\net9.0\Atividade_Pratica_Funcoes.pdb
+C:\Users\1663209\Documents\bernardp\06_05\Atividade_Pratica_Funcoes\obj\Debug\net9.0\Atividade_Pratica_Funcoes.genruntimeconfig.cache
+C:\Users\1663209\Documents\bernardp\06_05\Atividade_Pratica_Funcoes\obj\Debug\net9.0\ref\Atividade_Pratica_Funcoes.dll
