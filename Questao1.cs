@@ -22,7 +22,7 @@ public class Questao1
     {
         char conceito;
 
-        Console.WriteLine("Insira a nota do aluno(0 a 10): ");
+        Console.Write("Insira a nota do aluno(0 a 10): ");
 
         int nota = int.Parse(Console.ReadLine());
 

@@ -12,3 +12,4 @@ C:\Users\1663209\Documents\bernardp\06_05\Atividade_Pratica_Funcoes\obj\Debug\ne
 C:\Users\1663209\Documents\bernardp\06_05\Atividade_Pratica_Funcoes\obj\Debug\net9.0\Atividade_Pratica_Funcoes.pdb
 C:\Users\1663209\Documents\bernardp\06_05\Atividade_Pratica_Funcoes\obj\Debug\net9.0\Atividade_Pratica_Funcoes.genruntimeconfig.cache
 C:\Users\1663209\Documents\bernardp\06_05\Atividade_Pratica_Funcoes\obj\Debug\net9.0\ref\Atividade_Pratica_Funcoes.dll
+C:\Users\1663209\Documents\bernardp\06_05\Atividade_Pratica_Funcoes\obj\Debug\net9.0\Atividade_Pratica_Funcoes.sourcelink.json
